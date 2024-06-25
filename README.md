@@ -13,4 +13,4 @@ anihrelppod@gmail.com
 
 ~@anih_doppler~
 
-![(https://media1.tenor.com/m/DFU0KlC_StgAAAAC/cat-ghost.gif)]
+![](https://media1.tenor.com/m/DFU0KlC_StgAAAAC/cat-ghost.gif)
