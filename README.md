@@ -1,11 +1,11 @@
 ## Welcome to my profile! ^^ 
 
 *Meu nome é Ketelin J. Estevam*
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
-- Utilizo eesse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
 
-tmj <3
+Tmj <3
 
 
 ### Você pode entrar em contato comigo 📫
