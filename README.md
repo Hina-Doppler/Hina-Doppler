@@ -2,7 +2,7 @@
 
 *Meu nome é Ketelin J. Estevam*
 - Estou estudando na Alura
-- Estou me desenvolvendo na çinguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo 3esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos!
 
 
